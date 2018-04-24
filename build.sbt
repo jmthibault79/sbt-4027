@@ -2,7 +2,7 @@
 
 // sbt "show updateClassifiers" does not retrieve tests-sources JARs
 
-// navigate to org.broadinstitute.dsde.workbench.service.util.Retry
+// navigate to org.broadinstitute.dsde.workbench.service.util.Retry in IntelliJ
 // and attempt to access sources
 
 scalaVersion := "2.12.5"
